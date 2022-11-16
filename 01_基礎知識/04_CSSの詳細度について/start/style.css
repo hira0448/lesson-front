@@ -1,0 +1,21 @@
+/* 上から詳細度(優先順位)が低い */
+.parent {
+  color: blue;
+  font-weight: 600;
+}
+
+span {
+  color: purple;
+}
+
+.cls {
+  color: orange;
+}
+
+.parent span {
+  color: red;
+}
+
+#first {
+  color: black;
+}
